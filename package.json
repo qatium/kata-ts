@@ -15,6 +15,9 @@
     "type": "git",
     "url": "https://github.com/qatium/kata-ts.git"
   },
+  "engines": {
+    "node": ">=16"
+  },
   "dependencies": {
     "@types/jest": "^26.0.20",
     "jest": "^26.6.3",
