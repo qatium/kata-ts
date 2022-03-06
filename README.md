@@ -1,7 +1,7 @@
 Kata.ts
 =======
 
-Boilerplate for katas, with:
+Boilerplate for katas using TypeScript, with:
 
 - Node
 - Typescript
